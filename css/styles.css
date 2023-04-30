@@ -85,6 +85,7 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 .head-text-two {
@@ -94,4 +95,13 @@
   font-size: 36px;
   line-height: 40px;
   color: #2e2f42;
+}
+.footer{
+  background-color: #404bbf;
+}
+.paragraph-text-footer{
+  color: #F4F4FD;
+}
+.logo_studio-footer{
+  color: #F4F4FD;
 }
