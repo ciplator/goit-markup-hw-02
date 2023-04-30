@@ -91,9 +91,9 @@ color: #404bbf
   letter-spacing: 0.02em;
   color: var(--contact-color);
 }
-.menu-item{
+/* .menu-item{
   color: #2e2f42;
-}
+} */
 .header-addres-cont{
   color: var(--contact-color);
 }
