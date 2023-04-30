@@ -99,7 +99,7 @@ color: #404bbf
 }
 .header-addres{
   font-style: normal;
-  color: var(--font-color);
+  color: var(--contact-color);
 
 }
 .hero-text {
