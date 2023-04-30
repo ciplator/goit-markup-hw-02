@@ -53,8 +53,21 @@
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.04em;
+  background-color: #F4F4FD;
+  color: #4d5ae5;
+}
+.hero-button-portfolio{
+cursor: pointer;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.04em;
   background-color: #4D5AE5;
   color: #ffffff;
+
+
 }
 .menu-link:hover{
   color: #404bbf 
@@ -69,7 +82,7 @@ color: #404bbf
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.02em;
-  color: var(--font-color);
+  color: #2e2f42;
 }
 .menu-item{
   color: #2e2f42;
