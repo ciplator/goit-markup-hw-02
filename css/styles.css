@@ -33,6 +33,7 @@
 .page-header:hover,
 .list {
   list-style: none;
+  font-style: normal
 }
 
 .link {
