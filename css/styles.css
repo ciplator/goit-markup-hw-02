@@ -1,5 +1,5 @@
 :root {
-  --font-color:#434455;
+  --contact-color:#434455;
   --link-color:#2e2f42 ;
   
 
@@ -88,13 +88,14 @@ color: #404bbf
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--font-color);
+  color: var(--link-color);
 }
 .menu-item{
   color: #2e2f42;
 }
-.header-addres{
+.header-addres-cont{
   font-style: normal;
+  color: var(--contact-color);
 }
 .hero-text {
   text-align: center;
