@@ -1,22 +1,31 @@
-:root body {
+:root {
+
+
+} body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
 }
 .logo-web {
-  font-family: "Raleway";
+  text-transform: uppercase;
+  font-weight: 800;
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
-  line-height: 21px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
   color: #4d5ae5;
 }
 .logo_studio {
-  font-family: "Raleway";
+  text-transform: uppercase;
+  font-weight: 800;
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
-  line-height: 21px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
   color: #2e2f42;
 }
 .page-header:hover,
@@ -35,7 +44,7 @@
   background-color: #404bbf;
 }
 .hero-button {
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -52,7 +61,7 @@
   color: #2e2f42;
 }
 .hero-text {
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 56px;
