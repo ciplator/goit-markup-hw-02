@@ -1,5 +1,5 @@
 :root {
-  --font-color:#434455;
+  --contact-color:#434455;
   --link-color:#2e2f42 ;
   
 
@@ -95,13 +95,13 @@ color: #404bbf
   color: #2e2f42;
 }
 .header-addres-cont{
-  color: var(--link-color);
+  color: var(--contact-color);
 }
-.header-addres{
+/* /* .header-addres{
   font-style: normal;
-  color: var(--font-color);
+  color: var(--font-color); */
 
-}
+} */
 .hero-text {
   text-align: center;
   font-family: "Roboto", sans-serif;
