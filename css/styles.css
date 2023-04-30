@@ -94,6 +94,7 @@ color: #404bbf
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 .paragraph-text {
@@ -106,13 +107,21 @@ color: #404bbf
   color: #434455;
 }
 .head-text-two {
+  text-align: center;
+  text-transform: capitalize;
   font-family: "Roboto";
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
   line-height: 40px;
+  line-height: 1.11;
   color: #2e2f42;
 }
+
+.section-four{
+ background-color: #F4F4FD;
+}
+
 .footer{
   background-color: #404bbf;
 }
