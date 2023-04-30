@@ -46,11 +46,14 @@
   background-color: #404bbf;
 }
 .hero-button {
+  cursor: pointer;
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
+  letter-spacing: 0.04em;
+  background-color: #4D5AE5;
   color: #ffffff;
 }
 .menu-link:hover{
@@ -75,6 +78,7 @@ color: #404bbf
   font-style: normal;
 }
 .hero-text {
+  text-align: center;
   font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 700;
