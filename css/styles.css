@@ -120,10 +120,26 @@ color: #404bbf
 
 .section-four{
  background-color: #F4F4FD;
+
+}
+.head-text-product{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2E2F42;
+ 
 }
 
+.section-four-list{
+
+}
 .footer{
-  background-color: #404bbf;
+  background-color: #2e2f42;
 }
 .paragraph-text-footer{
   color: #F4F4FD;
