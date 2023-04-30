@@ -1,5 +1,5 @@
 :root {
-  --contact-color:#434455;
+  --font-color:#434455;
   --link-color:#2e2f42 ;
   
 
@@ -94,8 +94,12 @@ color: #404bbf
   color: #2e2f42;
 }
 .header-addres-cont{
+  color: var(--link-color);
+}
+.header-addres{
   font-style: normal;
-  color: var(--contact-color);
+  color: var(--font-color);
+
 }
 .hero-text {
   text-align: center;
