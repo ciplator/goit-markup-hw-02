@@ -10,9 +10,7 @@
 }
 .logo-web {
   text-transform: uppercase;
-  font-weight: 800;
-  font-family: "Raleway", sans-serif;
-  font-style: normal;
+  font-family: "Raleway", sans-serif;  
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -20,20 +18,12 @@
   color: #4d5ae5;
 }
 .logo_studio {
-  text-transform: uppercase;
-  font-weight: 800;
-  font-family: "Raleway", sans-serif;
-  font-style: normal;
-  font-weight: 800;
-  font-size: 18px;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
   color: #2e2f42;
 }
 .page-header:hover,
 .list {
   list-style: none;
-  font-style: normal
+  
 }
 
 .link {
@@ -53,7 +43,7 @@
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1,5;
   letter-spacing: 0.04em;
   background-color: #4D5AE5;
   color: #ffffff;
@@ -64,7 +54,7 @@ cursor: pointer;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1,5;
   letter-spacing: 0.04em;
   background-color: #F4F4FD;
   color: #4D5AE5;
@@ -83,17 +73,13 @@ color: #FFFFFF;
 color: #404bbf
 }
 .menu-link {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--link-color);
 }
-.menu-item{
-  color: #2e2f42;
-} 
+
 .header-addres-cont{
   color: var(--contact-color);
 }
@@ -103,8 +89,6 @@ color: #404bbf
 
 }
 .hero-text {
-  text-align: center;
-  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 56px;
@@ -113,32 +97,28 @@ color: #404bbf
   color: #ffffff;
 }
 .head-text {
-  text-align: center;
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
-  line-height: 24px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
 .paragraph-text {
   font-family: "Roboto";
   font-style: normal;
-  font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1,5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 .head-text-two {
-  text-align: center;
+
   text-transform: capitalize;
   font-family: "Roboto";
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
-  line-height: 40px;
   line-height: 1.11;
   color: #2e2f42;
 }
@@ -162,9 +142,6 @@ color: #2E2F42;
  
 }
 
-.section-four-list{
-
-}
 .footer{
   background-color: #2e2f42;
 }
